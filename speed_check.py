@@ -10,7 +10,7 @@ video = cv2.VideoCapture('cars.mp4')
 WIDTH = 1280
 HEIGHT = 720
 
-#This program developed by Narmada Labs & Muditya raghav
+
 
 
 def estimateSpeed(location1, location2):
